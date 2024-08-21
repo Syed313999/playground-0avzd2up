@@ -18,7 +18,20 @@ System.out.println(message);
 }
 //}
 ```
+// { autofold
+public class Main {
 
+public static void main(String[] args) {
+// }
+
+String message = "Welcome to my learning page!";
+System.out.println(message);
+
+//{ autofold
+}
+
+}
+//}
 # Advanced usage
 
 If you want a more complex example (external libraries, viewers...), use the [Advanced Java template](https://tech.io/select-repo/385)
